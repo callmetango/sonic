@@ -18,4 +18,4 @@ Please contact the support channels of your Linux distribution for user support.
 
 ## Reporting bugs
 
-Please use [Sonic De's issue tracker](https://github.com/Sonic-DE/kwin-x11-sonic/issues) and report your issue.
+Please use [Sonic De's issue tracker](https://github.com/Sonic-DE/sonic/issues) and report your issue.
