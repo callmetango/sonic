@@ -1,10 +1,11 @@
-# sonic
-Organization Repository for global discussions etc
+# SonicDE Organization Repository
 
-## Contacting the Sonic DE development team
+This is the organization repository of the Sonic Desktop Environment (SonicDE) for global discussions, etc.
+
+## Contacting the SonicDE development team
 
 * IRC: #sonicde on irc.libera.chat
-* Telegram: (https://t.me/sonic_de)
+* Telegram: https://t.me/sonic_de
 
 ## Support
 
@@ -14,8 +15,8 @@ If you are an application developer having questions regarding windowing systems
 
 ### End user
 
-Please contact the support channels of your Linux distribution for user support. The Sonic DE development team does not provide end user support.
+Please contact the support channels of your Linux distribution for user support. The SonicDE development team does not provide end user support.
 
 ## Reporting bugs
 
-Please use [Sonic De's issue tracker](https://github.com/Sonic-DE/sonic/issues) and report your issue.
+Please use [SonicDE's issue tracker](https://github.com/Sonic-DE/sonic/issues) and report your issue.
