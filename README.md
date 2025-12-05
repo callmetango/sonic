@@ -4,8 +4,10 @@ This is the organization repository of the Sonic Desktop Environment (SonicDE) f
 
 ## Contacting the SonicDE development team
 
-* IRC: #sonicde on irc.libera.chat
-* Telegram: https://t.me/sonic_de
+* `#sonicde` on irc.libera.chat 
+* [Telegram](https://t.me/sonic_de)
+* [`#sonicdesktop:matrix.org`](https://matrix.to/#/#sonicdesktop:matrix.org)
+* [Discord](https://discord.gg/cNZMQ62u5S)
 
 ## Support
 
